@@ -12,3 +12,17 @@ C:\ANDREA\UNIVERSIDAD\PRIMERO\2 CUATRI\FP2\VisualStudio\Practicas\Practica 1 Shi
 C:\ANDREA\UNIVERSIDAD\PRIMERO\2 CUATRI\FP2\VisualStudio\Practicas\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.pdb
 C:\ANDREA\UNIVERSIDAD\PRIMERO\2 CUATRI\FP2\VisualStudio\Practicas\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.genruntimeconfig.cache
 C:\ANDREA\UNIVERSIDAD\PRIMERO\2 CUATRI\FP2\VisualStudio\Practicas\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\ref\Practica 1 Shikaku.dll
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\bin\Debug\net6.0\Practica 1 Shikaku.exe
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\bin\Debug\net6.0\Practica 1 Shikaku.deps.json
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\bin\Debug\net6.0\Practica 1 Shikaku.runtimeconfig.json
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\bin\Debug\net6.0\Practica 1 Shikaku.dll
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\bin\Debug\net6.0\Practica 1 Shikaku.pdb
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.AssemblyInfoInputs.cache
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.AssemblyInfo.cs
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.csproj.CoreCompileInputs.cache
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.dll
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\refint\Practica 1 Shikaku.dll
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.pdb
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\Practica 1 Shikaku.genruntimeconfig.cache
+C:\Users\Andrea G. Anastasio\Desktop\Grupo19\Practica 1 Shikaku\Practica 1 Shikaku\obj\Debug\net6.0\ref\Practica 1 Shikaku.dll

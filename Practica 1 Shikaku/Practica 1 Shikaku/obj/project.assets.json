@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ANDREA\\UNIVERSIDAD\\PRIMERO\\2 CUATRI\\FP2\\VisualStudio\\Practicas\\Practica 1 Shikaku\\Practica 1 Shikaku\\Practica 1 Shikaku.csproj",
+      "projectUniqueName": "C:\\Users\\Andrea G. Anastasio\\Desktop\\Grupo19\\Practica 1 Shikaku\\Practica 1 Shikaku\\Practica 1 Shikaku.csproj",
       "projectName": "Practica 1 Shikaku",
-      "projectPath": "C:\\ANDREA\\UNIVERSIDAD\\PRIMERO\\2 CUATRI\\FP2\\VisualStudio\\Practicas\\Practica 1 Shikaku\\Practica 1 Shikaku\\Practica 1 Shikaku.csproj",
+      "projectPath": "C:\\Users\\Andrea G. Anastasio\\Desktop\\Grupo19\\Practica 1 Shikaku\\Practica 1 Shikaku\\Practica 1 Shikaku.csproj",
       "packagesPath": "C:\\Users\\Andrea G. Anastasio\\.nuget\\packages\\",
-      "outputPath": "C:\\ANDREA\\UNIVERSIDAD\\PRIMERO\\2 CUATRI\\FP2\\VisualStudio\\Practicas\\Practica 1 Shikaku\\Practica 1 Shikaku\\obj\\",
+      "outputPath": "C:\\Users\\Andrea G. Anastasio\\Desktop\\Grupo19\\Practica 1 Shikaku\\Practica 1 Shikaku\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

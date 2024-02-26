@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practica 1 Shikaku/1.0.0": {
+        "runtime": {
+          "Practica 1 Shikaku.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica 1 Shikaku/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

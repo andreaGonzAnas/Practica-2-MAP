@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 documento de texto editado.
 <<<<<<< HEAD
 intento de conflicto 1.
@@ -9,5 +10,7 @@ archivo recuperable.
 =======
 
 >>>>>>> parent of a0f7a40 (doc editado)
+=======
+>>>>>>> parent of fc6748c (Change in doc text)
 =======
 >>>>>>> parent of fc6748c (Change in doc text)

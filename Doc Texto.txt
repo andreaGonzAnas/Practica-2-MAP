@@ -1,3 +1,3 @@
 documento de texto editado
 intento de conflicto 1.
-
+intento de conflicto 2.

@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-documento de texto editado.
-intento de conflicto 1.
-intento de conflicto 2. :D
-intento de conflicto 3.
-intento de conflicto 4.
-archivo recuperable.
-=======
->>>>>>> parent of fc6748c (Change in doc text)
+

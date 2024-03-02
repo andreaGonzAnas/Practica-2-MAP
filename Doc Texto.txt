@@ -3,3 +3,4 @@ intento de conflicto 1.
 intento de conflicto 2. :D
 intento de conflicto 3.
 intento de conflicto 4.
+archivo recuperable.
